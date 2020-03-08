@@ -14,4 +14,15 @@ package com.cebit.com;
  *
  */
 public class Test {
+	/**
+	 * 
+	 */
+	public Test() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+	
+	
 }
